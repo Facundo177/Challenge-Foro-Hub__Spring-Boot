@@ -117,7 +117,7 @@ public class TopicoController {
     }
 
 
-    //  Eliminar un tópico (delete lógico)
+    //  Eliminar un tópico
     @DeleteMapping("/{id}")
     @Transactional
     public ResponseEntity eliminarTopico(@PathVariable Long id) {
