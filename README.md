@@ -1,6 +1,7 @@
 <div align="center">
   <h1 align="center">
     Challenge Foro Hub
+
   </h1>
   <h3> 
     Un Challenge de Alura - ONE
@@ -81,3 +82,9 @@ La modificación es flexible a los campos que el usuario desee ingresar, los que
 - CRUD completo
 - Interacción con el usuario a través de peticiones
 - Aplicación de los conceptos de abstracción, encapsulamiento y polimorfismo
+
+   <br />
+   <br />
+<div align="center">
+ <img src=https://github.com/user-attachments/assets/87bdd5b1-e175-4d14-89e3-484334f8b01f>
+</div>
